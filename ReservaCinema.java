@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Laryssa, Arthur 
+ * @author Laryssa, Arthur, Samuel Ualtrin, Ariane, Vinicius, Adrian
  */
 import java.util.Random;
 import java.util.Scanner;
